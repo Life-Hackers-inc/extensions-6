@@ -148,7 +148,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.37.1",
-    "axios": "^1.2.1",
+    "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12",
     "fs-extra": "^11.1.0",
     "libgen": "^2.1.2",
