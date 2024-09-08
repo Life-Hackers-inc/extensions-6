@@ -64,7 +64,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.28.0",
-    "ali-oss": "^6.17.1",
+    "ali-oss": "^6.21.0",
     "dayjs": "^1.10.7",
     "execa": "^6.1.0",
     "iconv-lite": "^0.6.3"
