@@ -119,7 +119,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.41.1",
-    "axios": "^0.27.2",
+    "axios": "^1.6.8",
     "file-url": "^4.0.0",
     "fs-extra": "^10.1.0",
     "run-applescript": "^6.0.0"
