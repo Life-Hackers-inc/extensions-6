@@ -65,7 +65,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.47.3",
-    "js-beautify": "^1.14.7"
+    "js-beautify": "^1.14.9"
   },
   "devDependencies": {
     "@types/js-beautify": "^1.13.3",
